@@ -13,3 +13,4 @@ tldextract
 motor
 aiofiles
 dnspython
+python-3.10.2
